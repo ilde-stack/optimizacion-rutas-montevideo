@@ -1,0 +1,15 @@
+# Archivos de datos e inputs (para no saturar GitHub con CSVs pesados)
+*.csv
+*.xlsx
+
+# Mapas interactivos locales autogenerados
+*.html
+
+# Logs y soluciones temporales de Gurobi
+gurobi.log
+*.sol
+*.lp
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
